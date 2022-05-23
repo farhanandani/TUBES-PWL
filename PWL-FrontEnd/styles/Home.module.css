@@ -1,0 +1,57 @@
+.containerUtama{
+  background-color: #F9F9F9;
+}
+
+.heroes{
+  position: relative; 
+  width: 98.75vw;
+  height: 45.2vw;
+}
+
+.heroes_content_container{
+  position: absolute;
+  z-index: 1;
+  bottom: 0px;
+}
+
+.heroes_text_container{
+  color: white;
+  background-color: black;
+}
+
+.heading_heroes{
+  font-size: 3vw;
+}
+
+.heroes_text{
+  font-size: 2vw;
+}
+
+.heroes_button{
+  font-size: 2vw;
+  background-color: black;
+}
+
+.lainnya_button{
+  background-color: black;
+}
+
+.prosedur_title{
+  font-size: 3vw;
+}
+
+.prosedur_text{
+  background-color: #C4C4C4;
+  font-size: 1.7vw;
+}
+
+.image_prosedur{
+  width: 100%;
+}
+
+.map{
+  display: block;
+  border: 0;
+  width: 90%;
+}
+
